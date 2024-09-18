@@ -1,0 +1,9 @@
+#app {
+  width: 960px;
+  margin: 0 auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.row {
+  padding: 5px 0;
+}
